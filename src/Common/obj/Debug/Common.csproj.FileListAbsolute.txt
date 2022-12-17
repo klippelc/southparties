@@ -1,0 +1,11 @@
+C:\Repos\klippelc-practice\src\Common\bin\Debug\Common.dll
+C:\Repos\klippelc-practice\src\Common\bin\Debug\Common.pdb
+C:\Repos\klippelc-practice\src\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Repos\klippelc-practice\src\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Repos\klippelc-practice\src\Common\obj\Debug\Common.dll
+C:\Repos\klippelc-practice\src\Common\obj\Debug\Common.pdb
+C:\Repos\southparties\src\Common\bin\Debug\Common.dll
+C:\Repos\southparties\src\Common\bin\Debug\Common.pdb
+C:\Repos\southparties\src\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Repos\southparties\src\Common\obj\Debug\Common.dll
+C:\Repos\southparties\src\Common\obj\Debug\Common.pdb

@@ -1,0 +1,16 @@
+C:\Repos\southparties\src\Domain\bin\Release\Domain.dll.config
+C:\Repos\southparties\src\Domain\bin\Release\Domain.dll
+C:\Repos\southparties\src\Domain\bin\Release\Domain.pdb
+C:\Repos\southparties\src\Domain\bin\Release\Common.dll
+C:\Repos\southparties\src\Domain\bin\Release\EntityFramework.dll
+C:\Repos\southparties\src\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Repos\southparties\src\Domain\bin\Release\Newtonsoft.Json.dll
+C:\Repos\southparties\src\Domain\bin\Release\Common.pdb
+C:\Repos\southparties\src\Domain\bin\Release\EntityFramework.xml
+C:\Repos\southparties\src\Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Repos\southparties\src\Domain\bin\Release\Newtonsoft.Json.xml
+C:\Repos\southparties\src\Domain\obj\Release\Domain.csproj.AssemblyReference.cache
+C:\Repos\southparties\src\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Repos\southparties\src\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Repos\southparties\src\Domain\obj\Release\Domain.dll
+C:\Repos\southparties\src\Domain\obj\Release\Domain.pdb

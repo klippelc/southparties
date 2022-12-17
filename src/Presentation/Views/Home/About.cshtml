@@ -1,0 +1,32 @@
+﻿@model DashboardDto
+
+@{
+    var persons = Model.Persons;
+    ViewBag.Title = "About";
+}
+
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+
+<p>Below are some awesome people!@@@@@@</p>
+<p>Below are really some awesome people!!!!!!</p>
+<p>feature 6</p>
+<p>Commit 11!!</p>
+<p>Commit 12!!</p>
+<p>Commit 13!!</p>
+<p>Emma 1!</p>
+<p>Emma 2!</p>
+<p>Emma 2!</p>
+<p>Final Emma!</p>
+<p>Branch1</p>
+<p>Branch2!!!!</p>
+
+
+@foreach (var p in persons)
+{
+    <h1>
+        <a href="@Url.Action("Person", "Home", new { id = p.DomainKey } )"><span class="fas fa-tachometer-alt mr-1 d-inline" aria-hidden="true"></span><span class="nav-label ">@(p.FirstName)</span></a>
+    </h1>
+
+}

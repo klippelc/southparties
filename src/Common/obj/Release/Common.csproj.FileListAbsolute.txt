@@ -1,0 +1,6 @@
+C:\Repos\southparties\src\Common\bin\Release\Common.dll
+C:\Repos\southparties\src\Common\bin\Release\Common.pdb
+C:\Repos\southparties\src\Common\obj\Release\Common.csproj.AssemblyReference.cache
+C:\Repos\southparties\src\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Repos\southparties\src\Common\obj\Release\Common.dll
+C:\Repos\southparties\src\Common\obj\Release\Common.pdb

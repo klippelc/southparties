@@ -1,0 +1,9 @@
+﻿@model PersonDto
+
+@{
+    var person = Model;
+    ViewBag.Title = "Person";
+}
+
+<h2>Person - @(person.FirstName) @(person.LastName) - @(person.EmployeeId)</h2>
+
